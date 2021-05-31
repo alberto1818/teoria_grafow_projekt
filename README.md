@@ -1,4 +1,4 @@
-# teoria_grafow_projekt
+# Teoria grafów - projekt
 
 Algorytm Dijkstry został zaimplementowany w języku Python (3.9.0) w pliku dijkstra.py.
 Przyjmuje on graf w formie listy sąsiedztw zmodyfikowanej tak, aby zawierała wagi krawędzi, czyli zapis (v:w) oznacza, że krawędź do węzła v ma wagę w.
